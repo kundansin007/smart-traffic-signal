@@ -155,10 +155,10 @@ time on empty lanes during off peak hours.
 ---
 
 ## Project By
-Name: [Your Name]
+Name: KUNDAN KUMAR
 Year: 2nd Year Engineering
 Subject: IoT Project Assignment
-College: [Your College Name]
+College: Guru Gobind Singh Indraprastha University 
 Year: 2025-2026
 
 ---
